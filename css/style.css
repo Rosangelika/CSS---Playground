@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Kolker+Brush&family=Nanum+Pen+Script&display=swap');
+
+body {
+    background-color: blanchedalmond
+}
+
+.heading{
+    text-align: center
+}
+
+.playground-heading{
+    color: darkblue;
+    font-family: 'Kolker Brush', cursive;
+    font-size: 5rem;
+}
+
+.main{
+    border: 3px solid rgb(24, 192, 24); 
+    width: 55%; 
+    margin: 0 auto
+}
+
+.main div{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: 2rem auto;
+}
+
+#blue{
+    border-color: blueviolet;
+}
+
+#green{
+    border-color: darkgreen;
+}
+
+#red{
+    border-color: red;
+}
+
+.footer{
+    color: rgb(0, 119, 255);
+    font-family: 'Nanum Pen Script', cursive;
+    text-align: center;
+    font-size: 2rem;
+}
